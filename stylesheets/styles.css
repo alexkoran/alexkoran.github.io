@@ -25,5 +25,9 @@ ul #menu_nav {
 #menu_nav li{
   display: inline;
   color: white;
-  
+}
+
+#menu_nav a{
+  color: white;
+  font-style: none;
 }
