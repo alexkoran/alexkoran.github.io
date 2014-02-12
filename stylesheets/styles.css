@@ -27,6 +27,7 @@ body {
   list-style-type: none;
   display: inline;
   color: white;
+  font-style: none;
   padding: 0px 10px 0px 10px;
 }
 
