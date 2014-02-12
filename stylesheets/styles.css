@@ -26,7 +26,7 @@ body {
 #menu_nav li{
   list-style-type: none;
   color: white;
-  padding: 10px;
+  padding: 0px 10px 0px 10px;
 }
 
 #menu_nav a{
