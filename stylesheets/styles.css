@@ -3,13 +3,15 @@ body {
   
 #heading {
   width: 100%;
-  height: 100px;
+  height: 100%;
+  background:blue;
+  border: 0px;}
+  
+#heading h1 {
   color: white;
   font-size: 50px;
   letter-spacing: 30px;
-  text-align: center;
-  background:blue;
-  border: 0px;}
+  text-align: center;}
   
 ul #menu_nav {
   display: inline;
