@@ -21,11 +21,12 @@ body {
   color: #fff;
   background: black;
   opacity: .7;
-  padding: 20px;}
+  padding: 10px;}
 
 #menu_nav li{
   list-style-type: none;
   color: white;
+  padding: 10px;
 }
 
 #menu_nav a{
