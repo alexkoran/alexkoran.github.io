@@ -10,3 +10,10 @@ body {
   text-align: center;
   background:blue;
   border: 0px;}
+  
+ul #menu_nav {
+  display: inline;
+  color: #fff;
+  background: black;
+  opacity: .7;
+  padding: 20px;}
