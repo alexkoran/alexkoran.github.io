@@ -24,6 +24,7 @@ body {
   padding: 20px;}
 
 #menu_nav li{
+  list-style-type: none;
   display: inline;
   color: white;
 }
