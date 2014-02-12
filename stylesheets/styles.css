@@ -21,3 +21,9 @@ ul #menu_nav {
   background: black;
   opacity: .7;
   padding: 20px;}
+
+#menu_nav li{
+  display: inline;
+  color: white;
+  
+}
