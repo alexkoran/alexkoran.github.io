@@ -35,9 +35,12 @@ body {
   font-style: none;}
 
 #site_content {
-  background: blue;}
+  background: blue;
+  padding: 10px;
+  margin-left: 10px;}
   
 #banner {
   background: red;
-  padding:10px;}
+  padding:10px;
+  margin-left: 10px;}
 
