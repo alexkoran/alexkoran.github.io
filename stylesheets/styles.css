@@ -28,10 +28,14 @@ body {
   display: inline;
   color: white;
   font-style: none;
-  padding: 0px 10px 0px 10px;
-}
+  padding: 0px 10px 0px 10px;}
 
 #menu_nav a{
   color: white;
-  font-style: none;
-}
+  font-style: none;}
+
+#site_content {
+  background: red;}
+  
+#banner {
+  background: blue;}
