@@ -39,3 +39,8 @@ body {
   
 #banner {
   background: blue;}
+
+#patrick {
+  background: url(http://media.giphy.com/media/zLBIu5sOUMydi/giphy.gif);
+  height:100%;
+  width:100%;}
