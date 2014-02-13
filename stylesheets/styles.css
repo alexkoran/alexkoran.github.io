@@ -2,7 +2,7 @@ body {
   background: white
   margin: 0 auto;
   position: relative;
-  top: -3px;}
+  top: -10px;}
   
 #heading {
   width: 100%;
@@ -41,10 +41,10 @@ body {
 #site_content {
   background: blue;
   padding: 10px;
-  margin-left: -3px;}
+  }
   
 #banner {
   background: red;
   padding:10px;
-  margin-left: -4px;}
+  }
 
