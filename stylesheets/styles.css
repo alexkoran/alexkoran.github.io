@@ -37,10 +37,10 @@ body {
 #site_content {
   background: blue;
   padding: 10px;
-  margin-left: 10px;}
+  margin-left: -10px;}
   
 #banner {
   background: red;
   padding:10px;
-  margin-left: 10px;}
+  margin-left: -10px;}
 
