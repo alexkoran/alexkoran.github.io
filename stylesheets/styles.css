@@ -25,7 +25,6 @@ body {
   display: inline;
   color: #fff;
   background: black;
-  opacity: .7;
   padding: 10px;}
 
 #menu_nav li{
@@ -33,6 +32,7 @@ body {
   display: inline;
   color: white;
   font-style: none;
+  background: black;
   padding: 0px 10px 0px 10px;}
 
 #menu_nav a{
