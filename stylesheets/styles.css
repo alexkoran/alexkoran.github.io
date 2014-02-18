@@ -38,7 +38,7 @@ body {
 
 #menu_nav a{
   color: white;
-  font-style: none;}
+  text-decoration: none;}
 
 #site_content {
   background: blue;
