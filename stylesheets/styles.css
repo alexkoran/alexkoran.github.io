@@ -25,7 +25,7 @@ body {
   display: inline;
   color: #fff;
   background: black;
-  padding: 10px;}
+  padding: 20px;}
 
 #menu_nav li{
   list-style-type: none;
@@ -34,6 +34,7 @@ body {
   font-size: 20px;
   font-style: none;
   background: black;
+  padding: 20px;
   padding: 0px 10px 0px 10px;}
 
 #menu_nav a{
