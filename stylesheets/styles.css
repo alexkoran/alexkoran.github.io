@@ -23,12 +23,13 @@
     }
     ul {
       background: rgba(0,0,0,0.8);
+      text-decoration: none;
     }
     li {
       display: inline;
       margin: 0px;
       padding: 0px 10px 0px 10px;
-      text-decoration: none;
+      
     }
    
     
