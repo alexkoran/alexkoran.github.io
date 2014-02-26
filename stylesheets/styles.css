@@ -10,10 +10,12 @@
       color: white;
       
     }
-    a {
+    a#menu{
       color: white;
       text-decoration: none;
     }
+    
+    
     h1 {
       font-size: 70px;
     }
