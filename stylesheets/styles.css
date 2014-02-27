@@ -35,5 +35,12 @@
       
     }
    
-    
+    #faded {
+      font-size: 20px;
+      text-align: center;
+      font-family:"Times New Roman", Times, serif;
+      color: #334433;
+      font-weight: bold;
+      
+    }
 
