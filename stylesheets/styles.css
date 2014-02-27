@@ -38,6 +38,7 @@
     #faded {
       height: 40px;
       width: 1000px;
+      margin: 0 auto;
       font-size: 20px;
       text-align: center;
       font-family:"Times New Roman", Times, serif;
