@@ -41,6 +41,7 @@
       font-family:"Times New Roman", Times, serif;
       color: #334433;
       font-weight: bold;
-      
+      border-color: red;
+      border-radius: 10px;
     }
 
