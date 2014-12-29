@@ -34,7 +34,13 @@
       padding: 0px 10px 0px 10px;
       
     }
-   
+   .location {
+      float: right;
+    }
+    .duration {
+      float: right;
+    }
+    
     #faded {
       height: 40px;
       width: 400px;
