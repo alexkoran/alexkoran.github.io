@@ -8,7 +8,11 @@
       background: rgba(200,200,0,0.5);
       background-size: cover;
       color: white;
-      
+    }
+    
+    h1 {
+        float:right;
+        
     }
     a#menu{
       color: white;
