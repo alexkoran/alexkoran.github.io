@@ -10,6 +10,7 @@
       color: white;
     }
     hr {
+        position: relative;
         top: -20px;
     }
      h1 {
