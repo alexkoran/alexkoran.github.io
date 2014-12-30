@@ -9,6 +9,9 @@
       background-size: cover;
       color: white;
     }
+    hr {
+        top: -5px;
+    }
      h1 {
       font-size: 70px;}
     
