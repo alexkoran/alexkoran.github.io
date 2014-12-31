@@ -12,6 +12,10 @@
       border: 30px;
       border-color: rgba(0,0,0,1);
     }
+    .contactinfo {
+        position: center;
+    }
+    
     hr {
         position: relative;
         top: -20px;
