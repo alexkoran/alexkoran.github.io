@@ -11,12 +11,14 @@
     #contactinfo {
         text-align:left;
     }
+    #myname{
+        font-size: 50px;
+    }
     hr {
         position: relative;
-        top: -20px;
+        width: 80%;
     }
-     h1 {
-      font-size: 70px;}
+    
     
     a#menu{
       color: white;
