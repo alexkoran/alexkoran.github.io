@@ -8,7 +8,9 @@
       background: rgba(000,185,185,1);
       color: black;
     }
-    
+    #contactinfo {
+        float:left;
+    }
     hr {
         position: relative;
         top: -20px;
