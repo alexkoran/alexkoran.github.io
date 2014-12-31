@@ -18,10 +18,13 @@
     }
     hr {
         position: relative;
-        width: 80%;
     }
-    
-    
+    .major{
+        width: 100%;
+    }
+    .minor{
+        width: 60%;
+    }
     a#menu{
       color: white;
       text-decoration: none;
