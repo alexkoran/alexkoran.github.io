@@ -20,6 +20,7 @@
         width: 600px;
         padding: 5px;
         border:10px solid black;
+        border-radius: 10px;
         
     }
     #myname{
