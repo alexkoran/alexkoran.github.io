@@ -19,10 +19,7 @@
         background-color: rgba(255,0,0,1);
         width: 600px;
         padding: 5px;
-        border:10px;
-        border-style: solid;
-        border-radius: 5px;
-        border-color: black;
+        border:10px solid black;
         
     }
     #myname{
