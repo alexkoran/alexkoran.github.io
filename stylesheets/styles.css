@@ -42,6 +42,8 @@
         border-color:white;
         color: white;
         background-color:white;
+        height: 20px;
+        
     }
     .show-more .section{
         height: 350px;
@@ -58,7 +60,7 @@
     }
     .minor{
         width: 40%;
-        height: 5%;
+        
     }
     .position{
         font-style: italic;
