@@ -43,7 +43,6 @@
         color: white;
         background-color:white;
         height: 20px;
-        box-shadow: 0;
         
     }
     .show-more .section{
@@ -61,6 +60,8 @@
     }
     .minor{
         width: 40%;
+        clear: both;
+        border: 1px solid transparent;
         
     }
     .position{
