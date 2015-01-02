@@ -58,6 +58,7 @@
         color: white;
         background-color:white;
         height: 0px;
+        border: no;
     }
     .major{
         width: 100%;
