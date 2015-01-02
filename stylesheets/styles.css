@@ -39,7 +39,7 @@
     }
     hr {
         position: relative;
-        color:white;
+        border-color:white;
     }
     .show-more .section{
         height: 350px;
