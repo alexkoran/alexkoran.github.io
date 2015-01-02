@@ -30,6 +30,7 @@
     }
     h2 {
         font-size: 1.5em;
+        border: 1em 0 1em 0;
     }
     hr {
         position: relative;
