@@ -28,9 +28,7 @@
         font-size: 80px;
         padding: 20px 0 0 0 ;
     }
-    div {
-        position: relative;
-        height: 56px;
+
     }
     h2 {
         font-size: 1.5em;
@@ -48,15 +46,14 @@
     .show-more p hr {
         opacity: 1;
     }
+    .education {
+        height:56px; 
+    }
     .major{
         width: 100%;
     }
     .minor{
         width: 40%;
-    }
-    a#menu{
-      color: white;
-      text-decoration: none;
     }
     .position{
         font-style: italic;
