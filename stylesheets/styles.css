@@ -44,22 +44,7 @@
         height: 0px;
         
     }
-    .show-more .education{
-        height: 350px;
-        background-color: rgba(0,255,0,1);
-    }
-    .show-more p {
-        opacity: 1;
-    }
     
-    .show-more .minor {
-        position: relative;
-        border-color:white;
-        color: white;
-        background-color:white;
-        height: 0px;
-        border: no;
-    }
     .major{
         width: 100%;
     }
@@ -77,5 +62,20 @@
     .duration {
       float: right;
     }
+    .show-more .education{
+        height: 350px;
+        background-color: rgba(0,255,0,1);
+    }
+    .show-more p {
+        opacity: 1;
+    }
     
+    .show-more .minor {
+        position: relative;
+        border-color:white;
+        color: white;
+        background-color:white;
+        height: 0px;
+        border: no;
+    }
     
