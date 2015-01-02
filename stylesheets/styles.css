@@ -29,11 +29,14 @@
         padding: 20px 0 0 0 ;
     }
     .section {
-        height: 3.5em;
+        height: 56px;
     }
     h2 {
         font-size: 1.5em;
         border: 1em 0 1em 0;
+    }
+    p {
+        opacity: 0;
     }
     hr {
         position: relative;
