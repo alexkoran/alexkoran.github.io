@@ -28,12 +28,21 @@
         font-size: 80px;
         padding: 20px 0 0 0 ;
     }
+    .section {
+        height: 3.5em;
+    }
     h2 {
         font-size: 1.5em;
         border: 1em 0 1em 0;
     }
     hr {
         position: relative;
+    }
+    .show-more section{
+        height: 350px;
+    }
+    .show-more p hr {
+        opacity: 1;
     }
     .major{
         width: 100%;
