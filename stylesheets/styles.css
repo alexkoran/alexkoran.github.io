@@ -43,6 +43,7 @@
         color: white;
         background-color:white;
         height: 20px;
+        box-shadow: 0;
         
     }
     .show-more .section{
