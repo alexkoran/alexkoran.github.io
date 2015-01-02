@@ -28,6 +28,9 @@
         font-size: 80px;
         padding: 20px 0 0 0 ;
     }
+    h2 {
+        font-size: 30px;
+    }
     hr {
         position: relative;
     }
@@ -44,22 +47,6 @@
     .position{
         font-style: italic;
     }
-    }
-    img {
-      margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
-    }
-    ul {
-      background: rgba(0,0,0,0.8);
-      
-    }
-    li {
-      display: inline;
-      margin: 0px;
-      padding: 0px 10px 0px 10px;
-      
-    }
    .location {
       float: right;
     }
@@ -67,17 +54,4 @@
       float: right;
     }
     
-    #faded {
-      height: 40px;
-      width: 400px;
-      margin: 0 auto;
-      font-size: 20px;
-      text-align: center;
-      font-family:"Times New Roman", Times, serif;
-      color: #334433;
-      font-weight: bold;
-      border-radius: 20px;
-      background: rgba( 200, 0, 0, 1);
-      text-shadow: 1px #fff;
-    }
-
+    
