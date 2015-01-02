@@ -28,9 +28,8 @@
         font-size: 80px;
         padding: 20px 0 0 0 ;
     }
-    .education {
-        height: 56px;
-    }
+    
+    
     h2 {
         font-size: 1.5em;
         border: 1em 0 1em 0;
@@ -49,7 +48,7 @@
     .show-more .education{
         height: 350px;
     }
-    .show-more p hr {
+    .show-more p {
         opacity: 1;
     }
     
@@ -64,7 +63,6 @@
         width: 40%;
         clear: both;
         border: 1px solid transparent;
-        
     }
     .position{
         font-style: italic;
