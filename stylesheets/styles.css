@@ -46,7 +46,7 @@
         height: 20px;
         
     }
-    .show-more .section{
+    .show-more .education{
         height: 350px;
     }
     .show-more p hr {
@@ -55,6 +55,7 @@
     
     .show-more .minor {
         color:black;
+        border: 1px solid black;
     }
     .major{
         width: 100%;
