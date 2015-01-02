@@ -47,12 +47,15 @@
         opacity: 1;
     }
     
-
+    .show-more .minor {
+        color:black;
+    }
     .major{
         width: 100%;
     }
     .minor{
         width: 40%;
+        color: white;
     }
     .position{
         font-style: italic;
