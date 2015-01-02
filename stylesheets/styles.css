@@ -53,8 +53,11 @@
     }
     
     .show-more .minor {
-    
-        border: 1px solid;
+        position: relative;
+        border-color:white;
+        color: white;
+        background-color:white;
+        height: 0px;
     }
     .major{
         width: 100%;
