@@ -38,7 +38,7 @@
     hr {
         position: relative;
     }
-    .show-more section{
+    .show-more .section{
         height: 350px;
     }
     .show-more p hr {
