@@ -51,7 +51,6 @@
     .minor{
         width: 40%;
         clear: both;
-        border: 1px solid transparent;
     }
     .position{
         font-style: italic;
