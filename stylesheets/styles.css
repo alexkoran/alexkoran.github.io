@@ -41,7 +41,7 @@
         border-color:white;
         color: white;
         background-color:white;
-        height: 20px;
+        height: 0px;
         
     }
     .show-more .education{
@@ -53,7 +53,7 @@
     }
     
     .show-more .minor {
-        color:black;
+    
         border: 1px solid;
     }
     .major{
