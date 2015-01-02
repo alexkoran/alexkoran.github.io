@@ -40,6 +40,8 @@
     hr {
         position: relative;
         border-color:white;
+        color: white;
+        background-color:white;
     }
     .show-more .section{
         height: 350px;
