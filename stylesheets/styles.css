@@ -47,6 +47,7 @@
     }
     .show-more .education{
         height: 350px;
+        background-color: rgba(0,255,0,1);
     }
     .show-more p {
         opacity: 1;
