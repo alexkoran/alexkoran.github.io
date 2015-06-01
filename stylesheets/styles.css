@@ -28,7 +28,7 @@
         padding: 20px 0 0 0 ;
     }
     div p {
-        opacity: 1; //delete for disappearing p//
+        opacity: 1; <!--delete for disappearing p-->
     }
     
     h2 {
